@@ -8,6 +8,19 @@ Flip between this CSS file and the HTML to see how things line up.
 Experiment with deleting lines of code from the CSS to see how it affects the webpage when you refresh in the browser.
 */
 
+
+
+
+.header-container {
+
+padding: 0 0.5rem;
+height: 40px
+background-color: #00001a; 
+
+}
+
+
+
 body {
     padding: 0;
     margin: 0;
